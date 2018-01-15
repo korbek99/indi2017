@@ -15,6 +15,18 @@
 		57F57468200C1E3700B017AB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57F57466200C1E3700B017AB /* LaunchScreen.storyboard */; };
 		57F57473200C1E3700B017AB /* IndicadoresTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F57472200C1E3700B017AB /* IndicadoresTests.swift */; };
 		57F5747E200C1E3700B017AB /* IndicadoresUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F5747D200C1E3700B017AB /* IndicadoresUITests.swift */; };
+		57F5748D200C2C0800B017AB /* fondonegro2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 57F5748C200C2C0800B017AB /* fondonegro2.jpg */; };
+		57F5748F200C307C00B017AB /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F5748E200C307C00B017AB /* next.png */; };
+		57F57491200C318100B017AB /* 0023Next.png in Resources */ = {isa = PBXBuildFile; fileRef = 57F57490200C318100B017AB /* 0023Next.png */; };
+		57F57493200C447A00B017AB /* ViewContrDolar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F57492200C447A00B017AB /* ViewContrDolar.swift */; };
+		57F57495200C44A300B017AB /* ViewContrUF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F57494200C44A300B017AB /* ViewContrUF.swift */; };
+		57F57497200C44BA00B017AB /* ViewContrIVP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F57496200C44BA00B017AB /* ViewContrIVP.swift */; };
+		57F57499200C44ED00B017AB /* ViewContrIPC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F57498200C44ED00B017AB /* ViewContrIPC.swift */; };
+		57F5749B200C450700B017AB /* ViewContrUTM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F5749A200C450700B017AB /* ViewContrUTM.swift */; };
+		57F5749D200C451F00B017AB /* ViewContrImacec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F5749C200C451F00B017AB /* ViewContrImacec.swift */; };
+		57F5749F200C455300B017AB /* ViewContrTPM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F5749E200C455300B017AB /* ViewContrTPM.swift */; };
+		57F574A1200C456F00B017AB /* ViewContrCobre.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F574A0200C456F00B017AB /* ViewContrCobre.swift */; };
+		57F574A3200C458B00B017AB /* ViewContrBitCoin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57F574A2200C458B00B017AB /* ViewContrBitCoin.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +61,18 @@
 		57F57479200C1E3700B017AB /* IndicadoresUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IndicadoresUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57F5747D200C1E3700B017AB /* IndicadoresUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IndicadoresUITests.swift; sourceTree = "<group>"; };
 		57F5747F200C1E3700B017AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57F5748C200C2C0800B017AB /* fondonegro2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fondonegro2.jpg; sourceTree = "<group>"; };
+		57F5748E200C307C00B017AB /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		57F57490200C318100B017AB /* 0023Next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 0023Next.png; sourceTree = "<group>"; };
+		57F57492200C447A00B017AB /* ViewContrDolar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrDolar.swift; sourceTree = "<group>"; };
+		57F57494200C44A300B017AB /* ViewContrUF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrUF.swift; sourceTree = "<group>"; };
+		57F57496200C44BA00B017AB /* ViewContrIVP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrIVP.swift; sourceTree = "<group>"; };
+		57F57498200C44ED00B017AB /* ViewContrIPC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrIPC.swift; sourceTree = "<group>"; };
+		57F5749A200C450700B017AB /* ViewContrUTM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrUTM.swift; sourceTree = "<group>"; };
+		57F5749C200C451F00B017AB /* ViewContrImacec.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrImacec.swift; sourceTree = "<group>"; };
+		57F5749E200C455300B017AB /* ViewContrTPM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrTPM.swift; sourceTree = "<group>"; };
+		57F574A0200C456F00B017AB /* ViewContrCobre.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrCobre.swift; sourceTree = "<group>"; };
+		57F574A2200C458B00B017AB /* ViewContrBitCoin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewContrBitCoin.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +123,7 @@
 		57F57459200C1E3600B017AB /* Indicadores */ = {
 			isa = PBXGroup;
 			children = (
+				57F5748B200C2BD500B017AB /* img */,
 				57F5745A200C1E3600B017AB /* AppDelegate.swift */,
 				57F5745C200C1E3600B017AB /* ViewController.swift */,
 				57F5745E200C1E3700B017AB /* Main.storyboard */,
@@ -106,6 +131,15 @@
 				57F57466200C1E3700B017AB /* LaunchScreen.storyboard */,
 				57F57469200C1E3700B017AB /* Info.plist */,
 				57F57461200C1E3700B017AB /* Indicadores.xcdatamodeld */,
+				57F57492200C447A00B017AB /* ViewContrDolar.swift */,
+				57F57494200C44A300B017AB /* ViewContrUF.swift */,
+				57F57496200C44BA00B017AB /* ViewContrIVP.swift */,
+				57F57498200C44ED00B017AB /* ViewContrIPC.swift */,
+				57F5749A200C450700B017AB /* ViewContrUTM.swift */,
+				57F5749C200C451F00B017AB /* ViewContrImacec.swift */,
+				57F5749E200C455300B017AB /* ViewContrTPM.swift */,
+				57F574A0200C456F00B017AB /* ViewContrCobre.swift */,
+				57F574A2200C458B00B017AB /* ViewContrBitCoin.swift */,
 			);
 			path = Indicadores;
 			sourceTree = "<group>";
@@ -126,6 +160,16 @@
 				57F5747F200C1E3700B017AB /* Info.plist */,
 			);
 			path = IndicadoresUITests;
+			sourceTree = "<group>";
+		};
+		57F5748B200C2BD500B017AB /* img */ = {
+			isa = PBXGroup;
+			children = (
+				57F5748C200C2C0800B017AB /* fondonegro2.jpg */,
+				57F57490200C318100B017AB /* 0023Next.png */,
+				57F5748E200C307C00B017AB /* next.png */,
+			);
+			name = img;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -239,6 +283,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				57F57468200C1E3700B017AB /* LaunchScreen.storyboard in Resources */,
+				57F5748F200C307C00B017AB /* next.png in Resources */,
+				57F5748D200C2C0800B017AB /* fondonegro2.jpg in Resources */,
+				57F57491200C318100B017AB /* 0023Next.png in Resources */,
 				57F57465200C1E3700B017AB /* Assets.xcassets in Resources */,
 				57F57460200C1E3700B017AB /* Main.storyboard in Resources */,
 			);
@@ -265,9 +312,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57F574A1200C456F00B017AB /* ViewContrCobre.swift in Sources */,
+				57F57499200C44ED00B017AB /* ViewContrIPC.swift in Sources */,
+				57F574A3200C458B00B017AB /* ViewContrBitCoin.swift in Sources */,
 				57F5745D200C1E3600B017AB /* ViewController.swift in Sources */,
+				57F57497200C44BA00B017AB /* ViewContrIVP.swift in Sources */,
 				57F57463200C1E3700B017AB /* Indicadores.xcdatamodeld in Sources */,
+				57F5749B200C450700B017AB /* ViewContrUTM.swift in Sources */,
+				57F57493200C447A00B017AB /* ViewContrDolar.swift in Sources */,
+				57F5749D200C451F00B017AB /* ViewContrImacec.swift in Sources */,
 				57F5745B200C1E3600B017AB /* AppDelegate.swift in Sources */,
+				57F57495200C44A300B017AB /* ViewContrUF.swift in Sources */,
+				57F5749F200C455300B017AB /* ViewContrTPM.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
